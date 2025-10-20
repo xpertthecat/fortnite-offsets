@@ -4,13 +4,13 @@ A collection of Fortnite SDKs, offsets, and version data for various builds.
 
 ---
 
-## 📦 BuildS
+## 📦 Build's
 **Version:** `5.1.1-25156858`  
 **Release:** `+++Fortnite+Release-24.20-FortniteGame`
 
 ---
 
-## 🗂️ Build List
+## 🗂️ Build's List
 
 | Build | Version String | Release Tag | Notes |
 |:------|:----------------|:-------------|:------|
