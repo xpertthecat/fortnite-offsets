@@ -1,6 +1,5 @@
-// Dumper-7.h
-#ifndef DUMPER7_H
-#define DUMPER7_H
+#ifndef offsets
+#define offsets
 
 #define FUObjectItemSize 0x18
 #define ULevel_Actors 0x98
