@@ -1,0 +1,49 @@
+=== Offsets ===
+GObjects: 0x105F0AE8
+GNames: 0x10800440
+GWorld: 0x1078A7D8
+FName::AppendString: 0xFB3898
+PE Offset: 0xF86384
+PE Index: 0x4D
+
+UObject::Flags: 0x8
+UObject::Index: 0xC
+UObject::Class: 0x10
+UObject::Name: 0x18
+UObject::Outer: 0x20
+UStruct::Children: 0x48
+UStruct::SuperStruct: 0x40
+UStruct::Size: 0x58
+UStruct::MinAlignment: 0x5C
+UClass::CastFlags: 0xD8
+UClass::ClassDefaultObject: 0x110
+UClass::ImplementedInterfaces: 0x1D0
+UEnum::Names: 0x40
+UFunction::FunctionFlags: 0xB0
+UFunction::ExecFunction: 0xD8
+Property::ArrayDim: 0x30
+Property::ElementSize: 0x34
+Property::PropertyFlags: 0x38
+Property::Offset_Internal: 0x44
+FField::Class: 0x8
+FField::Next: 0x20
+FField::Name: 0x28
+FField::Flags: 0x2C
+UBoolProperty::Base: 0x70
+EnumProperty::Base: 0x70
+ObjectProperty::PropertyClass: 0x70
+ByteProperty::Enum: 0x70
+StructProperty::Struct: 0x70
+DelegateProperty::SignatureFunction: 0x70
+ArrayProperty::Inner: 0x70
+SetProperty::ElementProp: 0x70
+MapProperty::Base: 0x70
+ULevel::Actors: 0x98
+UDataTable::RowMap: 0x30
+Text::TextSize: 0x18
+Text::TextDatOffset: 0x0
+Text::InTextDataStringOffset: 0x30
+
+bIsObjPtrInsteadOfFieldPathProperty: false
+bUseUint8ArrayDim: false
+========================

@@ -1,0 +1,50 @@
+{
+  "Globals": {
+    "GObjects": "0x105F0AE8",
+    "GNames": "0x10800440",
+    "GWorld": "0x1078A7D8",
+    "FName_AppendString": "0xFB3898",
+    "PE_Offset": "0xF86384",
+    "PE_Index": "0x4D",
+    "bIsObjPtrInsteadOfFieldPathProperty": false,
+    "bUseUint8ArrayDim": false
+  },
+  "Offsets": {
+    "FUObjectItemSize": "0x18",
+    "UObject": { "Flags": "0x8", "Index": "0xC", "Class": "0x10", "Name": "0x18", "Outer": "0x20" },
+    "UField": { "Next": "0x28" },
+    "UStruct": {
+      "Children": "0x48",
+      "SuperStruct": "0x40",
+      "Size": "0x58",
+      "MinAlignment": "0x5C",
+      "ChildProperties": "0x50"
+    },
+    "UClass": {
+      "CastFlags": "0xD8",
+      "ClassDefaultObject": "0x110",
+      "ImplementedInterfaces": "0x1D0"
+    },
+    "UEnum": { "Names": "0x40" },
+    "UFunction": { "FunctionFlags": "0xB0", "ExecFunction": "0xD8" },
+    "Property": {
+      "ArrayDim": "0x30",
+      "ElementSize": "0x34",
+      "PropertyFlags": "0x38",
+      "Offset_Internal": "0x44"
+    },
+    "FField": { "Class": "0x8", "Next": "0x20", "Name": "0x28", "Flags": "0x2C" },
+    "UBoolProperty": { "Base": "0x70" },
+    "EnumProperty": { "Base": "0x70" },
+    "ObjectProperty": { "PropertyClass": "0x70" },
+    "ByteProperty": { "Enum": "0x70" },
+    "StructProperty": { "Struct": "0x70" },
+    "DelegateProperty": { "SignatureFunction": "0x70" },
+    "ArrayProperty": { "Inner": "0x70" },
+    "SetProperty": { "ElementProp": "0x70" },
+    "MapProperty": { "Base": "0x70" },
+    "ULevel": { "Actors": "0x98" },
+    "UDataTable": { "RowMap": "0x30" },
+    "Text": { "TextSize": "0x18", "TextDatOffset": "0x0", "InTextDataStringOffset": "0x30" }
+  }
+}
